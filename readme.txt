@@ -30,5 +30,6 @@ switch branch from master to dev
 Branch switch test gagin.
 Switch to master and commit to master branch.Creat new branch feature1
 trian of branch management
+git branch train step2
 
 
