@@ -1,0 +1,85 @@
+commit 50229fad17ec036057e9a1bf7762a63a6dc1dd69
+Merge: c2a91ba 13caa4b
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 12:55:20 2019 +0800
+
+    merge with no-ff
+
+commit 13caa4b236184d5a3c9f16ed9d2369238854dbb6
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 11:47:55 2019 +0800
+
+    add merge
+
+commit f9ae032ba461df069575ad2764d654ebae1a864d
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 11:08:09 2019 +0800
+
+    Trian of branch management
+
+commit c2a91baad989dd26d330a7fb335e0063f2472f80
+Merge: 7628b1e 39039bb
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 10:57:06 2019 +0800
+
+    conflict fixed
+
+commit 7628b1e0caf4b2ee11b82ba6908d1c74a91b9558
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 10:51:53 2019 +0800
+
+    Switch to master and commit to master branch
+
+commit 39039bb820b9b8a87861591e326bf3df79b7bbde
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 10:50:14 2019 +0800
+
+    Commit to feature1 branch
+
+commit c28196dd8b83fc0b7b6a5275de7092b416c97c8d
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 10:45:46 2019 +0800
+
+    Commit the modify to dev branch
+
+commit 03ab4bdf06444cfd2f219f8544d60c62adc70aec
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 10:36:05 2019 +0800
+
+    First commit to dev branch
+
+commit b325452d656dcf758b098998fa64d597b9452a9a
+Author: MichaelShank <774566306@qq.com>
+Date:   Thu Mar 14 10:07:15 2019 +0800
+
+    Modify for second push action
+
+commit ae332302f835e6b78b8a281772a7d8cc16b249fa
+Author: 774566306@qq.com <774566306@qq.com>
+Date:   Thu Mar 14 09:43:59 2019 +0800
+
+    1. Update readme.txt
+
+commit 314693adfea87c1e9c2eb557ebf32fcdbb2c9e80
+Author: 774566306@qq.com <774566306@qq.com>
+Date:   Wed Mar 13 09:37:52 2019 +0800
+
+    Fourth modify of readme.txt
+
+commit d47738cdbc28f2a43afd27ece75f88b8ba9ea675
+Author: 774566306@qq.com <774566306@qq.com>
+Date:   Wed Mar 13 09:17:08 2019 +0800
+
+    Third modify of readme.txt
+
+commit 1c1525072de047874a707d1339ca0632b206d18c
+Author: 774566306@qq.com <774566306@qq.com>
+Date:   Wed Mar 13 09:15:52 2019 +0800
+
+    The second modify of readme.txt
+
+commit 98326087a83fa539268f7ac0176a277ed98f7bce
+Author: 774566306@qq.com <774566306@qq.com>
+Date:   Wed Mar 13 09:14:04 2019 +0800
+
+    First modify of readme.txt
